@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+#frase{
+    border: 6px black solid;
+    font-family: 'Roboto Slab', serif;
+    padding: 4em 0em;
+    max-width: 80%;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 1em auto;
+    background-color: #cccccc;
+    border-radius: 2em;
+    box-shadow: 2em black;
+}
+.botao1{
+    border: none;
+    background-color: #F44336;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+    font-size: 1.5em;
+    margin: 0em 1em;
+    cursor: pointer;
+}
+.botao2{
+    border: none;
+    background-color: #E91E63;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+    font-size: 1.5em;
+    margin: 0em 1em;
+    cursor: pointer;
+}
+.botao3{
+    border: none;
+    background-color: #9C27B0;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+    font-size: 1.5em;
+    margin: 0em 1em;
+    cursor: pointer;
+}
+.botao4{
+    border: none;
+    background-color: #673AB7;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+    font-size: 1.5em;
+    margin: 0em 1em;
+    cursor: pointer;
+}
+.botao5{
+    border: none;
+    background-color: #3F51B5;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+    font-size: 1.5em;
+    margin: 0em 1em;
+    cursor: pointer;
+}
+.botao6{
+    border: none;
+    background-color: #2196F3;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+    font-size: 1.5em;
+    margin: 0em 1em;
+    cursor: pointer;
+}
+.botao7{
+    border: none;
+    background-color: #03A9F4;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+    font-size: 1.5em;
+    margin: 0em 1em;
+    cursor: pointer;
+}
+.botao8{
+    border: none;
+    background-color: #00BCD4;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+    font-size: 1.5em;
+    margin: 0em 1em;
+    cursor: pointer;
+}
+.botao9{
+    border: none;
+    background-color: #009688;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+    font-size: 1.5em;
+    margin: 0em 1em;
+    cursor: pointer;
+}
+.botao10{
+    border: none;
+    background-color: #FF5722;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+    font-size: 1.5em;
+    margin: 0em 1em;
+    cursor: pointer;
+}
+#fundo{
+    text-align: center;
+}
+#letra{
+    text-align: center;
+}
+.text1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.75em;
+    padding: 1em;
+}
+.botao{
+    padding: 0.5em 1em;
+    background-color: black;
+    border: none;
+    border-radius: 2em;
+    color: white;
+    font-size: 1.5em;
+    margin: 0em 1em;
+    /*mouse vira mãozinha*/
+    cursor: pointer;
+    margin-top: 2em;
+}
+
